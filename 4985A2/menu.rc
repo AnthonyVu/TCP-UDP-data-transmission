@@ -1,0 +1,8 @@
+#include "menu.h"
+
+MYMENU MENU
+{
+MENUITEM "&Settings", ID_SETTINGS
+MENUITEM "&File", ID_FILE
+MENUITEM "&Start", ID_START
+}

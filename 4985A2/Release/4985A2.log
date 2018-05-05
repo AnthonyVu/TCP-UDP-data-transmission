@@ -1,0 +1,20 @@
+﻿  Source.cpp
+Source.cpp(35): warning C4005: 'STRICT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\minwindef.h(23): note: see previous definition of 'STRICT'
+Source.cpp(177): warning C4101: 'SocketInfo': unreferenced local variable
+Source.cpp(178): warning C4101: 'RecvBytes': unreferenced local variable
+Source.cpp(183): warning C4101: 'packet': unreferenced local variable
+Source.cpp(179): warning C4101: 'Flags': unreferenced local variable
+Source.cpp(178): warning C4101: 'SendBytes': unreferenced local variable
+Source.cpp(171): warning C4101: 'ServerSocket': unreferenced local variable
+Source.cpp(173): warning C4101: 'Connect': unreferenced local variable
+Source.cpp(387): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(404): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(366): warning C4101: 'SendBytes': unreferenced local variable
+Source.cpp(449): warning C4101: 'SendBytes': unreferenced local variable
+  XSleep.cpp
+  Generating code
+c:\users\antho\source\repos\4985a2\4985a2\source.cpp(776): warning C4715: 'ToolDlgProc': not all control paths return a value
+  All 171 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  4985A2.vcxproj -> C:\Users\antho\source\repos\4985A2\Release\4985A2.exe
